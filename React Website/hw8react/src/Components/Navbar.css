@@ -1,0 +1,11 @@
+.search {
+    text-decoration: none !important;
+    color: black !important;
+    border: solid 2px black;
+    border-radius: 7px 0px 0px 7px;
+}
+
+.bookings {
+    text-decoration: none !important;
+    color: black !important;
+}

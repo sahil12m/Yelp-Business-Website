@@ -1,0 +1,8 @@
+.tab{
+    margin-top: 5%;
+    background-color: white;
+}
+
+.tableelement:hover{
+    cursor: pointer;
+}

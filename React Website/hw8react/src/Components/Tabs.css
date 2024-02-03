@@ -1,0 +1,67 @@
+.panel1{
+    background-color: white;
+}
+
+.headline{
+    font-size: 20px;
+    margin-bottom: 2px;
+    /* margin-top: 10%; */
+}
+
+.cardlink{
+    padding-inline: 4%;
+}
+
+.card_dat{
+    margin-top: 5%;
+}
+
+.header1{
+    background-color: white;
+}
+
+.tab_card{
+    background-color: rgb(217, 217, 57);
+    margin-top: 2%;
+}
+
+.button2{
+    margin-bottom: 5%;
+}
+
+.modbut{
+    margin-left: 43%;
+}
+
+.carousel-control-next,
+.carousel-control-prev{
+    filter: invert(100%);
+}
+
+.cardcaro{
+    margin: auto;
+    max-width: 500px;
+    max-height: 600px; 
+}
+.span1{
+    margin-right: 3%;
+}
+.twtcolor{
+    color: rgb(15, 138, 165);
+    margin-right: 2%;
+}
+
+.fabcolor{
+    color: blue;
+}
+
+.gmap{
+    display: flex;
+    justify-content: center;
+}
+
+.icontwt{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5%;
+}

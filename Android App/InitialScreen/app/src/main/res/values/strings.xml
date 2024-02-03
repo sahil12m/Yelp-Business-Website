@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Yelp</string>
+    <string name="hint_test">KeyWord <font color='#FF0000'>*</font></string>
+    <string name="hint_test1">Distance <font color='#FF0000'>*</font></string>
+    <string name="hint_test2">Location <font color='#FF0000'>*</font></string>
+    <string name="title_activity_business_card">BusinessCard</string>
+    <string name="tab_text_1">Business Details</string>
+    <string name="tab_text_2">Map location</string>
+    <string name="tab_text_3">Reviews</string>
+    <string name="address">AA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -1,0 +1,85 @@
+select {
+    appearance: none !important;
+    border-radius: 10px 10px 10px 10px !important;
+    border-color: rgb(190, 190, 190); 
+}
+
+.button4{
+    margin-top: 3% !important;
+    margin-left: 40% !important;
+}
+
+.select12{
+    margin-right: 5%;
+    padding-right: -30px;
+}
+
+.sel2{
+    margin-right: 3%;
+}
+
+.clockicon{
+    margin-top: 3%;
+}
+
+.modspace{
+    margin-top: 4% !important;
+}
+
+.colontime{
+    margin-right: 2%;
+}
+
+.icon1{
+    width:60% !important;
+}
+
+.inv {
+    color: red;
+}
+
+.form-control.error {
+    border: 2px solid rgb(236, 52, 52);
+  }
+
+  .form-control.success {
+    border: 2px solid rgb(155, 155, 155);
+  }
+
+.error{
+    border: 2px solid rgb(236, 52, 52);
+}
+
+.success{
+    border: 2px solid rgb(155, 155, 155);
+}
+
+.form-control.error i.fa-exclamation-circle {
+visibility: visible;
+color: rgb(236, 52, 52);
+}
+
+.form-control.success i.fa-exclamation-circle {
+    visibility: hidden;
+    }
+
+.form-control i {
+    position: absolute;
+    top: 108px;
+    right: 38px;
+    visibility: hidden;
+  }
+
+  .form-control i.ex2 {
+    position: absolute;
+    top: 220px;
+    right: 28px;
+    visibility: hidden;
+  }
+
+  input {
+    border: none;
+    outline: none;
+    width: 100%;
+  }
+
